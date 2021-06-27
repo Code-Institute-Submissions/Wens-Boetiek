@@ -66,12 +66,6 @@ This project will be  mainly with using with python and django  .
 
 <!-- GETTING STARTED -->
 ## Getting Started
-# Music-Bits
-![pic](https://github.com/pbtrad/MS4-Music-Bits/blob/master/Large-img-landing-page.png)
-
-Welcome to [Music Bits](https://pbtrad-music-bits.herokuapp.com/) - an e-commerce website selling musical instruments adn accessories, providing expertise and choice through a satisfying shopping experience.
-
-
 ## Contents:
 <br>
 
