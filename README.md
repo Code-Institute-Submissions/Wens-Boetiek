@@ -380,14 +380,11 @@ Reviews:
 **Responsiveness:**
   
   All pages rendered on website have been tested for responsiveness on a range of devices:
-  * Large: HP Pavillion 17'3
+  * Large: Acer chromebook / windows desktop 
   * Medium: Ipad
-  * Small: Galaxy 9 and iphone 6 
+  * Small: samsung A20s and iphone 7 
   
   Any major cross-device issues have been dealt with through media queries in css.
-  
-  ![med](https://github.com/pbtrad/MS4-Music-Bits/blob/master/med-img-landing-page.png)
-  ![mobile](https://github.com/pbtrad/MS4-Music-Bits/blob/master/small-img-landing-page.png)
   
 **Validators**
 
@@ -435,14 +432,12 @@ Reviews:
 1. Basic requirements for deployment:
    * Python3 to run the application.
    * PIP to install app requirements.
-   * An IDE (eg:VSCode)
+   * An IDE (eg:gitpod)
    * GIT for cloning and version control.
    * A Github account for saving repositories.
    * Stripe account for implementing payment system.
 
-2. Clone the MS4-Music-Bits repository using Git by typing the following command into the terminal.
-   ```
-   git clone https://github.com/pbtrad/MS4-Music-Bits
+2. 
    ```
 
 3. Go to this folder in your IDE's terminal.
