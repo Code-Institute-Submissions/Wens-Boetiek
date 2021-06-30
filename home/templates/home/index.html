@@ -1,6 +1,27 @@
 {% extends "base.html" %}
 {% load static %}
 
+{% block page_header %}
+<div class="container header-container">
+    <div class="row">
+        <div class="col"></div>
+    </div>
+</div>
+{% endblock %}
+
 {% block content %}
-    <h1 class="display-4 text-success">It works!</h1>
+
+
+<div class="container h-100 mt-5 lg-pt-5 d-flex caption-container">
+    <div class="caption text-center">
+        <h1 class="shop-header">Wens Boetiek</h1>
+        <h1>initiative through make a wish netherlands</h1>
+
+        <div class="my-5">
+            <h4>
+                <a href="{% url 'products' %}" class="shop-now-button text-uppercase py-3 mx-auto ripple">Shop Now</a>
+            </h4>
+        </div>
+    </div>
+</div>
 {% endblock %}
