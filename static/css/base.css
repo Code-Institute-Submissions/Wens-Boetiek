@@ -1,14 +1,13 @@
-
 html {
     height: 100%;
 }
 
 body {
-    background: url('/media/homepagewb.jpg') no-repeat center center fixed;
+    background: url('/media/homepage-bg.jpg') no-repeat center center fixed;
     background-size: cover;
     height: calc(100vh - 164px);
     color: #555;
-    font-family: 'Lato';
+    font-family: 'Satisfy', cursive;
 }
 
 /* from Bulma */
