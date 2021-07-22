@@ -1,0 +1,20 @@
+[
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$260000$0Syj2kNJpVDveStpPHy3z4$Cauz/mBBzsjpkcgD8XH3BtRSyf4AjVh3oQf6RsakyYQ=",
+    "last_login": "2021-07-14T08:56:01.108Z",
+    "is_superuser": true,
+    "username": "kirst8",
+    "first_name": "",
+    "last_name": "",
+    "email": "kirst8.brooker@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2021-07-07T05:30:06.173Z",
+    "groups": [],
+    "user_permissions": []
+  }
+}
+]
