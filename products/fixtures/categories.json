@@ -1,0 +1,42 @@
+[
+    {
+      "pk":1,
+      "model":"products.category",
+      "fields":{
+         "name":"kids",
+         "friendly_name":"kids,jackets,top,pants,shoes"
+      }
+   },
+   {
+      "pk":2,  
+     "model":"products.category",
+      "fields":{
+         "name":"shoes",
+         "friendly_name":"men,women,heels,sport,low"
+      }
+   },
+   {
+      "pk":3,
+      "model":"products.category",
+      "fields":{
+         "name":"womens",
+         "friendly_name":"Jackets,Shoes,Sport,Dresses,"
+      }
+   },
+   {
+      "pk":4,
+      "model":"products.category",
+      "fields":{
+         "name":"mens",
+         "friendly_name":"Jackets,Shoes,Sport"
+      }
+   },
+   {
+      "pk":5,
+      "model":"products.category",
+      "fields":{
+         "name":"New Arrivals",
+         "friendly_name":"new arrivals"
+      }
+   }
+]

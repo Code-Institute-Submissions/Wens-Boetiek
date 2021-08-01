@@ -8,7 +8,7 @@
                 <a href="{% url 'products'%}?category=Price" class="dropdown-item">By Price</a>
                 <a href="{% url 'products'%}?category=Rating" class="dropdown-item ">By Rating</a>
                 <a href="{% url 'products'%}?category=Category" class="dropdown-item ">By Category</a>
-                <a href="{% url 'products'%}?category=activewear," class="dropdown-item">All Products</a>
+                <a href="{% url 'products'%}?category=All Products," class="dropdown-item">All Products</a>
             </div>
         </li>
 
@@ -43,6 +43,14 @@
             <div class="dropdown-menu border-0" aria-labelledby="specials-link">
                 <a href="{% url 'products'%}?category=new arrivals" class="dropdown-item">New Arrivals</a>
             </div>
+        </li>
+
+        <li class="nav-item pr-5">
+            <div class="dropdown-menu border-0" aria-labelledby="specials-link"></div>
+            <a class="logo-font font-weight-bold nav-link" href="{% url 'blog' %}" aria-haspopup="true">
+                Blog
+            </a>
+        </div>
         </li>
     </ul>
 </div>
