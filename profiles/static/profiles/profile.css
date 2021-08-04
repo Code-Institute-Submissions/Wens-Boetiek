@@ -1,5 +1,3 @@
-1 lines (17 sloc)  382 Bytes
- 
 .order-history {
     max-height: 416px; /* height of profile form + submit button */
     overflow-y: auto;
